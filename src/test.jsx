@@ -1,12 +1,12 @@
 // import React from 'react';
-import { HardHat, Hammer, Mail, Phone, Server, Plane, PenTool, Cpu } from 'lucide-react';
+import { HardHat, Hammer, Mail, Phone, Server, Plane, PenTool, Cpu, DiamondPercent } from 'lucide-react';
 
 const PhreandsLanding = () => {
   const team = [
     {
       name: "IT Infrastructure Specialist",
       icon: <Server className="w-8 h-8 text-blue-400" />,
-      services: ["IT Consulting", "Network & Server Administration", "Cloud & Automation", "Onsite/Remote Tech Support"],
+      services: ["IT Consulting", "Network & Server Administration", "Cloud & Automation Solutions", "Onsite/Remote Tech Support"],
       contact: { email: "it.expert@phreands.com", phone: "+1 (555) 010-111" }
     },
     {
@@ -18,7 +18,7 @@ const PhreandsLanding = () => {
     {
       name: "Creative Strategy",
       icon: <PenTool className="w-8 h-8 text-indigo-400" />,
-      services: ["Scriptwriting", "Content Creation"],
+      services: ["Scriptwriting", "Content Creation", "Proofreading", "Freelance Writing", "Ghost Writing"],
       contact: { email: "creative@phreands.com", phone: "+1 (555) 010-333" }
     }
   ];
