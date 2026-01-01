@@ -7,19 +7,19 @@ const PhreandsLanding = () => {
       name: "IT Infrastructure Specialist",
       icon: <Server className="w-8 h-8 text-blue-400" />,
       services: ["IT Consulting", "Network & Server Administration", "Cloud & Automation Solutions", "Onsite/Remote Tech Support"],
-      contact: { email: "it.expert@phreands.com", phone: "+233502930497" }
+      contact: { email: "it.expert@phreands.com", phone: "+233 50 293 0497" }
     },
     {
       name: "Operations & Logistics",
       icon: <Plane className="w-8 h-8 text-purple-400" />,
       services: ["Flight Ticketing", "Property Management"],
-      contact: { email: "logistics@phreands.com", phone: "+233243065654" }
+      contact: { email: "logistics@phreands.com", phone: "+233 24 306 5654" }
     },
     {
       name: "Creative Strategy",
       icon: <PenTool className="w-8 h-8 text-indigo-400" />,
       services: ["Scriptwriting", "Content Creation", "Proofreading", "Freelance Writing", "Ghost Writing"],
-      contact: { email: "creative@phreands.com", phone: "+233243481623" }
+      contact: { email: "creative@phreands.com", phone: "+233 24 348 1623" }
     }
   ];
 
